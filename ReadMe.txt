@@ -1,8 +1,6 @@
-Fun With Flags Android Project
+#Fun With Flags Android Project
 __________________________________
 
-Video with all app functions > FunWithFlags.mp4
+Description: Android app that features a flag repository for users to learn about different country flags, 
+              The app also features a quiz where users can test their knowledge.
 
-Two screens to be graded on > FlagScreen.kt, QuizScreen.kt
-
-Two functionalities implemented > Room Database, NavController
