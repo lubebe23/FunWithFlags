@@ -1,0 +1,12 @@
+<!-- app/src/main/res/values/strings.xml -->
+<resources>
+    <string name="app_name">Fun with Flags</string>
+    <string name="flag_content_desc">Flag of %1$s</string>
+    <string name="favorited">Favourited</string>
+    <string name="not_favorited">Not favourited</string>
+    <string name="flag_details">Flag Details</string>
+    <string name="back">Back</string>
+    <string name="flag_not_found">Flag not found</string>
+    <string name="favorite_status_favorited">⭐ Favourite flag</string>
+    <string name="favorite_status_not_favorited">Not in favourites</string>
+</resources>
